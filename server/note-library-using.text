@@ -1,0 +1,6 @@
+npm init -y
+express
+nodemon
+pg
+dotenv
+prisma (npm install @prisma/client, npm install prisma --save-dev)  -> npx prisma init  -> npx prisma generate
